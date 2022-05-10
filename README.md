@@ -8,4 +8,4 @@
 
 ##### HTML5 CSS3 JAVASCRIPT JQUERY JQUERY COLLISION
 
-Acesse a página: [carrefour-dio-recriando-netflix](https://jnrnovaes.github.io/carrefour-dio-recriando-netflix/)
+Acesse a página: [orbi-dio-gamenave](https://jnrnovaes.github.io/orbi-dio-gamenave/)
