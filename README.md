@@ -2,7 +2,7 @@
 ### Bootcamp Órbi: DIO - Digital Inovation One
 </p>Projeto para desenvolver a criação de um jogo de naves com o Professor: Denilson Bonatti</p>
 
-![Jogo de Naves!](/assets/img/icon.png "Screenshot jogo de naves")
+![Jogo de Naves!](/assets/imgs/icon.png "Screenshot jogo de naves")
 
 #### Tecnologias Utilizadas
 
